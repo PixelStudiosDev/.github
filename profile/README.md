@@ -1,5 +1,5 @@
 # CubeCrafter Development
-> We are a team of developers working mainly on Minecraft plugins. 🍓
+> We are a team of developers working mainly on Minecraft plugins. 🧊
 
 You can find our plugins here: [SpigotMC](https://www.spigotmc.org/resources/authors/1173446/) - [Polymart](https://polymart.org/u/8600) - [BuiltByBit](https://builtbybit.com/members/314827/)
 
